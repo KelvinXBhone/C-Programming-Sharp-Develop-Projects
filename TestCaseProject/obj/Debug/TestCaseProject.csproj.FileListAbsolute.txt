@@ -1,0 +1,8 @@
+C:\Users\Kelvin\OneDrive\Documents\SharpDevelop Projects\TestCaseProject\obj\Debug\TestCaseProject.csprojResolveAssemblyReference.cache
+C:\Users\Kelvin\OneDrive\Documents\SharpDevelop Projects\TestCaseProject\obj\Debug\TestCaseProject.MainForm.resources
+C:\Users\Kelvin\OneDrive\Documents\SharpDevelop Projects\TestCaseProject\obj\Debug\TestCaseProject.csproj.GenerateResource.Cache
+C:\Users\Kelvin\OneDrive\Documents\SharpDevelop Projects\TestCaseProject\bin\Debug\TestCaseProject.exe
+C:\Users\Kelvin\OneDrive\Documents\SharpDevelop Projects\TestCaseProject\bin\Debug\TestCaseProject.pdb
+C:\Users\Kelvin\OneDrive\Documents\SharpDevelop Projects\TestCaseProject\obj\Debug\TestCaseProject.exe
+C:\Users\Kelvin\OneDrive\Documents\SharpDevelop Projects\TestCaseProject\obj\Debug\TestCaseProject.pdb
+C:\Users\Kelvin\OneDrive\Documents\SharpDevelop Projects\TestCaseProject\obj\Debug\TestCaseProject.DynamicForm.resources
