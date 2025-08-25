@@ -1,0 +1,7 @@
+C:\Users\Kelvin\OneDrive\Documents\SharpDevelop Projects\Area_Project_2\Area_Project_2\obj\Debug\Area_Project_2.csprojResolveAssemblyReference.cache
+C:\Users\Kelvin\OneDrive\Documents\SharpDevelop Projects\Area_Project_2\Area_Project_2\obj\Debug\Area_Project_2.MainForm.resources
+C:\Users\Kelvin\OneDrive\Documents\SharpDevelop Projects\Area_Project_2\Area_Project_2\obj\Debug\Area_Project_2.csproj.GenerateResource.Cache
+C:\Users\Kelvin\OneDrive\Documents\SharpDevelop Projects\Area_Project_2\Area_Project_2\bin\Debug\Area_Project_2.exe
+C:\Users\Kelvin\OneDrive\Documents\SharpDevelop Projects\Area_Project_2\Area_Project_2\bin\Debug\Area_Project_2.pdb
+C:\Users\Kelvin\OneDrive\Documents\SharpDevelop Projects\Area_Project_2\Area_Project_2\obj\Debug\Area_Project_2.exe
+C:\Users\Kelvin\OneDrive\Documents\SharpDevelop Projects\Area_Project_2\Area_Project_2\obj\Debug\Area_Project_2.pdb
