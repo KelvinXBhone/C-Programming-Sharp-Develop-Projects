@@ -1,0 +1,7 @@
+C:\Users\Kelvin\OneDrive\Documents\SharpDevelop Projects\Hello World\Hello World\bin\Debug\Hello World.exe
+C:\Users\Kelvin\OneDrive\Documents\SharpDevelop Projects\Hello World\Hello World\bin\Debug\Hello World.pdb
+C:\Users\Kelvin\OneDrive\Documents\SharpDevelop Projects\Hello World\Hello World\obj\Debug\Hello World.csprojResolveAssemblyReference.cache
+C:\Users\Kelvin\OneDrive\Documents\SharpDevelop Projects\Hello World\Hello World\obj\Debug\Hello_World.MainForm.resources
+C:\Users\Kelvin\OneDrive\Documents\SharpDevelop Projects\Hello World\Hello World\obj\Debug\Hello World.csproj.GenerateResource.Cache
+C:\Users\Kelvin\OneDrive\Documents\SharpDevelop Projects\Hello World\Hello World\obj\Debug\Hello World.exe
+C:\Users\Kelvin\OneDrive\Documents\SharpDevelop Projects\Hello World\Hello World\obj\Debug\Hello World.pdb
