@@ -1,0 +1,7 @@
+C:\Users\Kelvin\OneDrive\Documents\SharpDevelop Projects\fitnesstracker\bin\Debug\fitnesstracker.exe
+C:\Users\Kelvin\OneDrive\Documents\SharpDevelop Projects\fitnesstracker\bin\Debug\fitnesstracker.pdb
+C:\Users\Kelvin\OneDrive\Documents\SharpDevelop Projects\fitnesstracker\obj\Debug\fitnesstracker.csprojResolveAssemblyReference.cache
+C:\Users\Kelvin\OneDrive\Documents\SharpDevelop Projects\fitnesstracker\obj\Debug\fitnesstracker.MainForm.resources
+C:\Users\Kelvin\OneDrive\Documents\SharpDevelop Projects\fitnesstracker\obj\Debug\fitnesstracker.csproj.GenerateResource.Cache
+C:\Users\Kelvin\OneDrive\Documents\SharpDevelop Projects\fitnesstracker\obj\Debug\fitnesstracker.exe
+C:\Users\Kelvin\OneDrive\Documents\SharpDevelop Projects\fitnesstracker\obj\Debug\fitnesstracker.pdb
