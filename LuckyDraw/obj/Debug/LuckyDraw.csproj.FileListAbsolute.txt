@@ -1,0 +1,7 @@
+C:\Users\Kelvin\OneDrive\Documents\SharpDevelop Projects\LuckyDraw\obj\Debug\LuckyDraw.csprojResolveAssemblyReference.cache
+C:\Users\Kelvin\OneDrive\Documents\SharpDevelop Projects\LuckyDraw\obj\Debug\LuckyDraw.MainForm.resources
+C:\Users\Kelvin\OneDrive\Documents\SharpDevelop Projects\LuckyDraw\obj\Debug\LuckyDraw.csproj.GenerateResource.Cache
+C:\Users\Kelvin\OneDrive\Documents\SharpDevelop Projects\LuckyDraw\bin\Debug\LuckyDraw.exe
+C:\Users\Kelvin\OneDrive\Documents\SharpDevelop Projects\LuckyDraw\bin\Debug\LuckyDraw.pdb
+C:\Users\Kelvin\OneDrive\Documents\SharpDevelop Projects\LuckyDraw\obj\Debug\LuckyDraw.exe
+C:\Users\Kelvin\OneDrive\Documents\SharpDevelop Projects\LuckyDraw\obj\Debug\LuckyDraw.pdb
